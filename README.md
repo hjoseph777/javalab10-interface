@@ -105,5 +105,5 @@ lab10-interface/
 
 ## Output
 
-![Output Display](/javalab10-interface/images/Screenshot%20.png)
+![Output Display](/javalab10-interface/images/Screenshot.png)
 
