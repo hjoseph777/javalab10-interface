@@ -4,8 +4,6 @@
 This project demonstrates the power of Java interfaces in creating flexible and maintainable code. It showcases how different objects (Person and Cow) can be compared using a common interface, even though they compare different attributes (age vs weight). 
 
 
-## Sample Usage and Output
-
 ### 1. Creating Comparable Objects
 ```java
 // Creating people with different ages
@@ -35,7 +33,7 @@ displayMaxValue("The object with the maximum value is", allObjects);
 // Output: The object with the maximum value is: Booba (weight: 500.0 kg)
 ```
 
-### 4. Implementation Details
+### 3. Implementation Details
 The comparison works through the `Comparable` interface:
 ```java
 public interface Comparable<T extends java.lang.Comparable<T>> {
