@@ -1,0 +1,5 @@
+com\javalab10\interfaces\Main.class
+com\javalab10\interfaces\model\Cow.class
+com\javalab10\interfaces\model\Person.class
+com\javalab10\interfaces\util\MaxValue.class
+com\javalab10\interfaces\common\Comparable.class
