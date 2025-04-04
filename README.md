@@ -104,6 +104,7 @@ lab10-interface/
   - Error handling
 
 ## Output
+![Output Display](../images/screenshot.png)
 
-![Output Display](/javalab10-interface/images/Screenshot%20.png)
+![Output Display](/javalab10-interface/images/screenshot%20.png)
 
