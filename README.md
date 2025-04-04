@@ -74,7 +74,10 @@ lab10-interface/
                 │   └── CowTest.java        # Cow class tests
                 └── util/
                     └── MaxValueTest.java   # MaxValue utility tests
+
 ```
+## Output
+![Dispaly](images/screenshot.png)
 
 ## Core Classes
 
@@ -103,7 +106,5 @@ lab10-interface/
   - List to array conversion
   - Error handling
 
-## Output
 
-![Output Display](/javalab10-interface/images/Screenshot.png)
 
